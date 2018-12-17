@@ -6,6 +6,7 @@ public class FristClass {
         System.out.println("第二个类");
         System.out.println("第三个类");
         System.out.println("第四个类")
-        sout
+        soutasdsadsadas
+            asdasd
     }
 }
